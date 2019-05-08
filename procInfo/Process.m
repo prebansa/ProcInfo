@@ -1,6 +1,6 @@
 //
 //  File: Process.m
-//  Project: Proc Info
+//  Project: Proc Infos
 //
 //  Created by: Patrick Wardle
 //  Copyright:  2017 Objective-See
