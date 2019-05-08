@@ -3,7 +3,7 @@
 //  Project: Proc Info
 //
 //  Created by: Patrick Wardle
-//  Copyright:  2017 Objective-See
+//  Copyright:  2017 Objective-Se
 //  License:    Creative Commons Attribution-NonCommercial 4.0 International License
 //
 
