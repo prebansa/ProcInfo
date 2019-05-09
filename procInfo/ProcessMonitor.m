@@ -7,7 +7,7 @@
 //  License:    Creative Commons Attribution-NonCommercial 4.0 International License
 //
 
-//disable incomplete/umbrella warnings
+//disable incomplete/umbrella warning
 // otherwise complains about 'audit_kevents.h'
 #pragma clang diagnostic ignored "-Wincomplete-umbrella"
 
