@@ -1,6 +1,6 @@
 //
 //  File: Consts.h
-//  Project: Proc Info
+//  Project: Proc Inf
 //
 //  Created by: Patrick Wardle
 //  Copyright:  2017 Objective-See
