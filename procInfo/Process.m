@@ -2,7 +2,7 @@
 //  File: Process.m
 //  Project: Proc Info
 //
-//  Created by: Patrick Wardle
+//  Created by: Patrick Wardle1
 //  Copyright:  2017 Objective-See
 //  License:    Creative Commons Attribution-NonCommercial 4.0 International License
 //
